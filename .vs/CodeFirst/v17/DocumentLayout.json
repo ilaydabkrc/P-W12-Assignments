@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Program.cs",
               "RelativeToolTip": "CodeFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T20:52:21.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PatikaFirstDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
               "RelativeToolTip": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T20:50:59.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameEntity.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\GameEntity.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entities\\GameEntity.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\GameEntity.cs",
               "RelativeToolTip": "CodeFirst\\Entities\\GameEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T20:50:54.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MovieEntity.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\MovieEntity.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entities\\MovieEntity.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\MovieEntity.cs",
               "RelativeToolTip": "CodeFirst\\Entities\\MovieEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T20:50:50.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentEntity.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\StudentEntity.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Entities\\StudentEntity.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\StudentEntity.cs",
-              "RelativeToolTip": "CodeFirst\\Entities\\StudentEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:18:37.495Z",
               "EditorCaption": ""
             },
             {
