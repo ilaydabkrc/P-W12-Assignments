@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CodeFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirstrelation\\context\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\context\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirstrelation\\codefirstrelation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\codefirstrelation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\context\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirstrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirstrelation\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirstrelation\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEEC366-0DC5-4EA8-A68A-74A90F1CD250}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|c:\\users\\pc\\source\\repos\\codefirst\\codefirst\\entities\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C9493E9-1595-4E53-AEEB-2C44A63D55A4}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entities\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\entities\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\entities\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|c:\\users\\pc\\source\\repos\\codefirst\\survivorproject\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C3E53-7EAF-4050-AA9C-967D514ECB61}|SurvivorProject\\SurvivorProject.csproj|solutionrelative:survivorproject\\controllers\\competitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,80 +70,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Program.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Program.cs",
-              "RelativeToolTip": "CodeFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Program.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Program.cs",
+              "RelativeToolTip": "SurvivorProject\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:52:21.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PatikaFirstDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
-              "RelativeToolTip": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:50:59.669Z",
+              "WhenOpened": "2025-08-03T21:23:47.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GameEntity.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\GameEntity.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Entities\\GameEntity.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\GameEntity.cs",
-              "RelativeToolTip": "CodeFirst\\Entities\\GameEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "SurvivorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Context\\SurvivorDbContext.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Context\\SurvivorDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Context\\SurvivorDbContext.cs",
+              "RelativeToolTip": "SurvivorProject\\Context\\SurvivorDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:50:54.602Z",
+              "WhenOpened": "2025-08-03T21:23:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\Competitor.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Entities\\Competitor.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\Competitor.cs",
+              "RelativeToolTip": "SurvivorProject\\Entities\\Competitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:23:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\Category.cs",
+              "RelativeToolTip": "SurvivorProject\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:23:32.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MovieEntity.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\MovieEntity.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Entities\\MovieEntity.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\MovieEntity.cs",
-              "RelativeToolTip": "CodeFirst\\Entities\\MovieEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "SurvivorProject\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:50:50.079Z",
+              "WhenOpened": "2025-08-03T21:23:29.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentEntity.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\StudentEntity.cs",
-              "RelativeDocumentMoniker": "CodeFirst\\Entities\\StudentEntity.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Entities\\StudentEntity.cs",
-              "RelativeToolTip": "CodeFirst\\Entities\\StudentEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SurvivorProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T20:18:37.495Z",
+              "WhenOpened": "2025-08-03T21:25:51.762Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatikaSecondDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:07:54.529Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\appsettings.json",
+              "RelativeDocumentMoniker": "SurvivorProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\appsettings.json",
+              "RelativeToolTip": "SurvivorProject\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T21:23:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompetitorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Controllers\\CompetitorController.cs",
+              "RelativeDocumentMoniker": "SurvivorProject\\Controllers\\CompetitorController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\SurvivorProject\\Controllers\\CompetitorController.cs",
+              "RelativeToolTip": "SurvivorProject\\Controllers\\CompetitorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:25:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeFirstRelation.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\CodeFirstRelation.csproj",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\CodeFirstRelation.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\CodeFirstRelation.csproj",
+              "RelativeToolTip": "CodeFirstRelation\\CodeFirstRelation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T21:15:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+              "RelativeDocumentMoniker": "CodeFirst\\CodeFirst.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+              "RelativeToolTip": "CodeFirst\\CodeFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T21:15:57.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatikaFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirst\\Context\\PatikaFirstDbContext.cs",
+              "RelativeToolTip": "CodeFirst\\Context\\PatikaFirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:13:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\appsettings.json",
+              "RelativeToolTip": "CodeFirstRelation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T21:07:59.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Entities\\Post.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:07:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CodeFirst\\CodeFirstRelation\\Entities\\User.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:07:44.976Z",
+              "EditorCaption": ""
             }
           ]
         }

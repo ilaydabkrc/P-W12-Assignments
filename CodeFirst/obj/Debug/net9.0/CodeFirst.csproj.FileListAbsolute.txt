@@ -157,3 +157,5 @@ C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\refint\CodeFirst.d
 C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\CodeFirst.pdb
 C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\CodeFirst.genruntimeconfig.cache
 C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\ref\CodeFirst.dll
+C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\CodeFirst.sourcelink.json
+C:\Users\PC\source\repos\CodeFirst\CodeFirst\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

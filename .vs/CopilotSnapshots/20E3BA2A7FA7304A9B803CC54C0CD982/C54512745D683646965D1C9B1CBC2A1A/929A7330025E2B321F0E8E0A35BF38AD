@@ -1,0 +1,63 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using SurvivorProject.Context;
+using SurvivorProject.Entities;
+
+namespace SurvivorProject.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class CategoryController : ControllerBase
+    {
+        private readonly SurvivorDbContext _context;
+        public CategoryController(SurvivorDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            var categories = await _context.Categories.Include(c => c.Competitors).ToListAsync();
+            return Ok(categories);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var category = await _context.Categories.Include(c => c.Competitors).FirstOrDefaultAsync(c => c.Id == id);
+            if (category == null) return NotFound();
+            return Ok(category);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create([FromBody] Category category)
+        {
+            category.CreatedDate = DateTime.UtcNow;
+            _context.Categories.Add(category);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetById), new { id = category.Id }, category);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] Category category)
+        {
+            var existing = await _context.Categories.FindAsync(id);
+            if (existing == null) return NotFound();
+            existing.Name = category.Name;
+            existing.ModifiedDate = DateTime.UtcNow;
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var category = await _context.Categories.FindAsync(id);
+            if (category == null) return NotFound();
+            category.IsDeleted = true;
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+    }
+}
